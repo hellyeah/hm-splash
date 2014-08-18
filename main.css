@@ -1,0 +1,19 @@
+.outerFrame {
+    background-color: blue;
+    height: 100%;
+    position: fixed;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+.innerFrame {
+    margin: 50px;
+    height: 100%;
+    background-color: black;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
